@@ -1,5 +1,10 @@
 {
-  "webcredentials": {
-    "apps": [ "34KYDAX9KC.com.jp4mobile.linkedinjp" ]
+  "applinks": {
+    "apps": [],
+    "details": [ {
+	    "appID": "34KYDAX9KC.com.jp4mobile.linkedinjp",
+	    "paths": ["/redirect/*"]
+        }
+    ]
   }
 }
